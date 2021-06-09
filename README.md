@@ -1,2 +1,2 @@
 # Black Scholes Option Pricer
-Futures pricer using black scholes model
+Option pricer using the Black Scholes model
